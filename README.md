@@ -4,8 +4,8 @@ The notebooks ware made such way that we could change the hyperparameters and we
 The best results were with the EXP12 settings, and after the images were binarized, intending to reduce the blur of the image. 
 
 The team was formed by:
-AUGUSTO DAMSCHI BERNARDI 164491, (@guto2568) 
+AUGUSTO DAMSCHI BERNARDI 164491 (@guto2568), 
 Brenno Cisi Ramos 167658, 
-Lucas Costa E Lima 182411, (@ahliminha)
+Lucas Costa E Lima 182411 (@ahliminha),
 Nicolas Gabriel Santana Ramos De Souza 185144
 
