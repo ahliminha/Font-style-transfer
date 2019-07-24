@@ -1,0 +1,24 @@
+Caracteres não lidos:48/2994
+Caracteres não lidos:48/2994
+Caracteres não lidos:48/2994
+Caracteres não lidos:48/2994
+Train/Validation loss over epochs: loss_graph.png 
+Train/Validationmean_absolute_error over epochs: mean_absolute_error_graph.png 
+Complete evaluate: [0.07953525502835551, 0.36422696036677205]
+Non Foreign Characters Evaluate: [0.09443425699587792, 0.4087389986361227]
+Foreign Characters Evaluate: [0.06463625762731798, 0.31971491729059526]
+Test results complete(expected/output): test_results_complete.png 
+Test inputs complete: test_inputs_complete.png 
+Test results (expected/output): test_results.png 
+Test inputs: test_inputs.png 
+Caracteres não lidos:48/2994
+Train/Validation loss over epochs: loss_graph.png 
+Train/Validationmean_absolute_error over epochs: mean_absolute_error_graph.png 
+Complete evaluate: [0.07849927703219076, 0.37429703627863237]
+Non Foreign Characters Evaluate: [0.09250863737636997, 0.4202548880730906]
+Foreign Characters Evaluate: [0.06448991404425714, 0.3283391854455394]
+Test results complete(expected/output): test_results_complete.png 
+Test inputs complete: test_inputs_complete.png 
+Test results (expected/output): test_results.png 
+Test inputs: test_inputs.png 
+Test inputs binarized with spilt in 30: test_inputs_binarized.png 
